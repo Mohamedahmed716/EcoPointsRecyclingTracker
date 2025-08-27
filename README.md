@@ -42,7 +42,7 @@ EcoPointsRecyclingTracker/
 
 -Clone the repository:
 ``bash
-    git clone https://github.com/mohamedahmed716/EcoPointsRecyclingTracker.git
+    git clone https://github.com/Mohamedahmed716/EcoPointsRecyclingTracker.git
     cd EcoPointsRecyclingTracker
 
 
