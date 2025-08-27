@@ -1,10 +1,10 @@
 ♻️ Eco-Points Recycling Tracker
-
+--
 A simple Java console application that allows households to log recycling events, earn eco-points, and generate community recycling reports.
 It uses object serialization to persist household data between program runs.
---
-✨ Features
 
+✨ Features
+--
 🏠 Register Households with unique ID, name, and address.
 
 📦 Log Recycling Events by material type (plastic, glass, metal, paper) and weight.
@@ -30,9 +30,9 @@ It uses object serialization to persist household data between program runs.
 -Collections Framework (HashMap, ArrayList)
 
 -LocalDate API
---
-📂 Project Structure
 
+📂 Project Structure
+--
 EcoPointsRecyclingTracker/
 
 │── RecyclingEvent.java   # Represents a single recycling event
@@ -43,9 +43,9 @@ EcoPointsRecyclingTracker/
 
 │── households.ser                   # Auto-generated file storing saved data
 
---
-▶️ How to Run
 
+▶️ How to Run
+--
 -Clone the repository:
 
     git clone https://github.com/Mohamedahmed716/EcoPointsRecyclingTracker.git
@@ -60,8 +60,9 @@ EcoPointsRecyclingTracker/
 -Run the program:
 
     java EcoPointsRecyclingTracker
---
+    
 📖 Usage Example
+--
 === Eco-Points Recycling Tracker ===
 1. Register Household
 2. Log Recycling Event
@@ -75,9 +76,9 @@ Enter household ID: H001
 Enter household name: Ahmed Family
 Enter household address: 123 Green Street
 Household registered successfully on 2025-08-27
---
-🚀 Future Improvements
 
+🚀 Future Improvements
+--
 Add leaderboard ranking of households.
 
 Introduce material-specific multipliers (e.g., metal earns more points).
