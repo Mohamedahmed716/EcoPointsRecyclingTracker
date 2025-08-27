@@ -30,9 +30,7 @@ It uses object serialization to persist household data between program runs.
 -Collections Framework (HashMap, ArrayList)
 
 -LocalDate API
-
 --
-
 📂 Project Structure
 
 EcoPointsRecyclingTracker/
