@@ -30,13 +30,21 @@ It uses object serialization to persist household data between program runs.
 -Collections Framework (HashMap, ArrayList)
 
 -LocalDate API
+
 --
+
 📂 Project Structure
+
 EcoPointsRecyclingTracker/
-│── RecyclingEvent.java              # Represents a single recycling event
+
+│── RecyclingEvent.java   # Represents a single recycling event
+
 │── Household.java                   # Represents a household with recycling history
+
 │── EcoPointsRecyclingTracker.java   # Main application logic
+
 │── households.ser                   # Auto-generated file storing saved data
+
 --
 ▶️ How to Run
 
