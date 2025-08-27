@@ -41,18 +41,18 @@ EcoPointsRecyclingTracker/
 ▶️ How to Run
 
 -Clone the repository:
-``bash
+
     git clone https://github.com/Mohamedahmed716/EcoPointsRecyclingTracker.git
     cd EcoPointsRecyclingTracker
 
 
 -Compile the project:
-``bash
+
     javac *.java
 
 
 -Run the program:
-``bash
+
     java EcoPointsRecyclingTracker
 --
 📖 Usage Example
